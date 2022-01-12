@@ -1,3 +1,10 @@
+# 1.0.0 (2022-01-12)
+
+
+### Bug Fixes
+
+* Initial release ([#1](https://github.com/Unsupervisedcom/action-upload-chart-git/issues/1)) ([dcbd63b](https://github.com/Unsupervisedcom/action-upload-chart-git/commit/dcbd63b60140b924b66e2858d3c8ee4f343b3da9))
+
 # 1.0.0 (2021-12-20)
 
 
